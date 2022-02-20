@@ -1,0 +1,3 @@
+Total Carbon Sequestration: 35839.38015327014
+Total Carbon Lost to Atmosphere: 6827.675113615791
+Net Sequestration: 29011.70503965435
